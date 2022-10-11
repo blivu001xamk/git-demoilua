@@ -1,4 +1,4 @@
-# Git-demoilua
+# Git/GitHub-demoilua
 Kokeillaan GitHubbailua
 
 ## Ominaisuuslista (features)
@@ -8,3 +8,5 @@ Kokeillaan GitHubbailua
 * Bootstrap mukaan
 * Kissakuva etusivulle
 * Linkki XAMK:n sivuille
+
+---
